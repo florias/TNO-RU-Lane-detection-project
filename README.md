@@ -1,6 +1,6 @@
 # TNO RU Lane detection project
-Modern Software Development Techniques course project 2019-2020
-Authors:
+## Modern Software Development Techniques course project 2019-2020
+### Authors:
 - Domantas Giržadas
 - Floris Griep
 - Floris van Wettum
