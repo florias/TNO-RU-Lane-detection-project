@@ -18,6 +18,7 @@ These coordinates are written to the topic:
 * lane_coordinates 
 
 ## Getting Started / Installing
+Data and the executable can be found here: https://drive.google.com/drive/folders/1qiebSK8NY5jOlpswK9Wouu3X-8XCT0kS?usp=sharing
 
 Make sure the Zip with the project files is downloaded and unzipped.
 After unzipping, run the setup.sh found in the unzipped folder.
